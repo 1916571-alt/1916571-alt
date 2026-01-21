@@ -5,8 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:geonyul1026@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/1916571-alt"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/1916571-alt/1916571-alt/raw/main/신건율_이력서.pdf"><img src="https://img.shields.io/badge/이력서-4285F4?style=flat-square&logo=googledocs&logoColor=white"/></a>
+  <a href="https://github.com/1916571-alt/1916571-alt/raw/main/신건율_포트폴리오.pdf"><img src="https://img.shields.io/badge/포트폴리오-34A853?style=flat-square&logo=googledocs&logoColor=white"/></a>
 </p>
 
 ---
